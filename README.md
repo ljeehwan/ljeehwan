@@ -18,9 +18,9 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <img src="http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=JAVA&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -33,8 +33,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-GITLAB-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
@@ -45,6 +43,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/-SEED 128/256-6DB33F?style=for-the-badge&"
+<img src="http://img.shields.io/badge/-SEED 128/256-6DB33F?style=for-the-badge"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+<img src="http://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
