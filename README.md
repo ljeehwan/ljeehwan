@@ -35,6 +35,8 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-GITLAB-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ### Window client solution
 <img src="http://img.shields.io/badge/-MFC-4479A1?style=for-the-badge&"
